@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.kotlintutorial.inchestocentimeters"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.kotlintutorial.inchestocentimeters"
